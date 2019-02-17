@@ -10,7 +10,7 @@
  */
 public class contoh1 {
     public static void main(String[] args){
-        String[] senaraiNama = {"Kamal","Danial","Sufian","Yeoh"};
+        String[] senaraiNama = {"Ainaa","Alia","Najla","Aina"};
         String[] senarai
     }
     
